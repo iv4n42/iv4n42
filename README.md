@@ -4,7 +4,7 @@
 
 - 📫 How to reach me ivanernand42@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,nodejs,express,mongodb,materialui,tailwind,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,vue,nodejs,express,mongodb,materialui,tailwind,py)](https://skillicons.dev)
 
 
 <!---
