@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Ivan
 - 👀 I have a Bachelor's Degree in Math
-- 🌱 I’m currently learning full stack dev with node.js and Angular as main tools
+- 🌱 I am a full stack developer with extensive expertise in technologies such as Angular, Node, Express, .NET, Azure, and Docker.
 
 - 📫 How to reach me ivanernand42@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,vue,nodejs,express,mongodb,materialui,tailwind,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,dotnet,nodejs,express,mongodb,materialui,tailwind,py,docker)](https://skillicons.dev)
 
 
 <!---
